@@ -29,7 +29,7 @@ This is a beginner-friendly Python project that demonstrates the core principles
 
 1. Clone the repository:
 ```
-git clone https://github.com/YOUR_USERNAME/Car-Class-Python-OOP.git
+git clone https://github.com/ZiyadAzzaz/Car-Class-Python-OOP.git
 cd Car-Class-Python-OOP
 ```
 
